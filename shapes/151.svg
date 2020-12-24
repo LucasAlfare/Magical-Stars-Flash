@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="88.7px" width="33.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -419.75, -260.5)">
+    <pattern height="23" id="PatternID_151_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 422.75, 260.5)" patternUnits="userSpaceOnUse" viewBox="0 0 27 23" width="27">
+      <image height="23" width="27" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAXCAYAAAD6FjQuAAABS0lEQVR42mNgGArg//z5/2lvSVHRf6AtCAzk08airVtRLYJhoDj1LfPxgVvwM1QcYRlQnDoW7Nv3H46RfPPhqgWq75DUkWbBoUP//0dGYg8yIP7lLvz//WMbMI1LDVg/0BzCluGxCIS/9qmCLftWr4RXHcgcwpZBFf/jY/n/25IfA4OCEGTZx+MmWOVB+mBmkOSzHylSYIOJwSBHoCQconwGijOk4PijzQ32BT6LPu0wBKtDCUZi4gxsYWYmikZQ0HyZo4nVIlAcIgcdWZn9/6JFGD7EZhmKjywt/4P0kZfPYmLgBoFSHzbLUFJlTg75Gfy/vDzcIFi8gYLtrwwHPFhB8QW3zMCAAsuQghAjtUFTK0gcZDnRyR1XNYJcFmKkNiSHoJQm69b9p8hnGBgttSJj6tVfSKkNnFpBfGT5pqb/NK+ZyQ66UUAqAABlcEqUmS6hKgAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M422.75 260.5 L449.75 260.5 449.75 283.5 422.75 283.5 422.75 260.5" style="fill:url(#PatternID_151_1)"/>
+    <pattern height="28" id="PatternID_151_2" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 419.75, 321.2)" patternUnits="userSpaceOnUse" viewBox="0 0 33 28" width="33">
+      <image height="28" width="33" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAcCAYAAADvANYcAAABpUlEQVR42mNgGAVkgP/79v0HYUJqqG/xli3//3t7/weajIptbP7/r6kBW/i/txfCR5L/x8cK0QfUT5kDMjMxLUfH2ByIjoHmUM0Bv635wRjsSyyWgcRB8n+0uSl3yP+lS1EM+JEi9f/DVYv/7x/bwPHnVbr//8pwwC3/MkcTRR6kHqQPxSGLFhHvEOT4/VavhGI4ukUgB3zaYYhTDUg/3BGWlsQ54v/p03BNIJ/iMhzZIYTUoEQPMbkHnNKRooGQBcTg74VyCEfU1xPhCKAimAaQ5oFxxPz5cA0/Q8Wp4ghQjoE7Yt06ItMFCWmCmDSDnKWpnjtIjgpgwUZWOUEoC+LDIH0oBRupRfj/yEiKHAKKBpSsCTSP9GL70KH/yA4BGUhMmYDVAcBCCmQeefUHyCEgA5DqDkIO+HjcBLPuIKW4xuoQoAHIBoLqDFwOANUfGJUbpQ6AOwTYbsBXimKtrKjpAHiLCkeUgHwPq02REyHZaYAUR4CiBaUkpLQBQ0opCkp0WC2nRlOOoCOQcgkGBta89Glpg3IJukOgDd0Ba/qPdoBoAQCzh08WEGbF+QAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <path d="M419.75 321.2 L452.75 321.2 452.75 349.2 419.75 349.2 419.75 321.2" style="fill:url(#PatternID_151_2)"/>
+  </g>
+</svg>
